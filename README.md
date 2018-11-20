@@ -28,11 +28,11 @@ Do the application interface for the inputs as you wish, it can work using **com
 
 ### Expected Output
 
-The output of the application must be a **new image file** that will use the product's image as the base image, with the given name plotted at the given (x, y). The font used and the font size are passed as parameters to the application.
+The output of the application must be a **new image file** that will use the product's image as the base image, with the given name plotted at the given position (x, y). The font used and the font size are passed as parameters to the application. Use your best judgment to decide your implementation and minor details.
 
 ### Example Files
 
-To help you in your challenge, you can also find in this repository a few product images and fonts used in our products.
+To help you in your challenge, you can also find in this repository a few images of Gocase products and fonts that we also use.
 
 ## Additional Questions
 
