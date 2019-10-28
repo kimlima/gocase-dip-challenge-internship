@@ -1,8 +1,8 @@
 # Gocase - Digital Image Processing Challenge
 
-First of all, thank you very much for accepting our challenge. Here at Gocase, we value the ability to deliver simple, elegant and functional code. When working with digital image processing, it's also important to have in mind that performance is an important aspect of the code. Our small challenge tries to identify if you have the abilities we value to join our Engineering Team.
+First of all, thank you very much for accepting our challenge. Here at Gocase, we value the ability to deliver simple, elegant and functional code. When working with digital image processing, it's also important to have in mind that performance is an important aspect of the code. Our small challenge tries to identify if you have the abilities we value to join our Engineering Team. Good luck!
 
-## Background
+## Context
 
 Here at Gocase, most of our products are **customizable** with our clients' preferences. That's one of our main selling points and greatest differential. One important aspect related to this approach is to let our clients know what they're buying and let them know if it fits their expectations. To do that, we need to generate a **preview** of the product, including the desired customization.
 
@@ -12,7 +12,7 @@ If you look at our website, you can see that, for any of our customizable produc
 
 ## Problem Description
 
-Your challenge is to create a simple **command-line application** that can receive a product's image and customize it. You can use **any language** you wish as long as solve the problem with a **good performance**.
+Your challenge is to create a simple **command-line application** that can receive a product's image and customize it. You can use **any language** you wish as long as solve the problem with a **good performance**. We recommend that you use **Python** for the solution, but it's not a requirement.
 
 ### Input
 
@@ -24,7 +24,7 @@ Your application expects the following inputs:
 - A name.
 - Pixel coordinates (x, y).
 
-Do the application interface for the inputs as you wish, it can work using **command-line arguments** or any other method. Don't forget to document how to use it.
+Do the application interface for the inputs as you wish, it can work using **command-line arguments** or any other method. Don't forget to document how to use it, including examples of usage.
 
 ### Expected Output
 
